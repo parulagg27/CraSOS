@@ -13,16 +13,16 @@ For more info about the project, please read this [document](../master/descripti
 **DRIVER RATING:** With an accelerometer and a gyroscopic sensor our product is able to monitor the velocity variations the vehicle undergoes, thus giving information about driving speed, lane changing behaviour and braking intensity which is used to **rate the driver**.
 
 ## About the repository :
-## * [Lane-Detection-App](../master/Lane-Detection)
-The code for lane changing detection is here. To know more about it, checkout the [README](../master/Lane-Detection/README.md).
+## * [Lane-Detection-App](../master/Lane_Detection)
+The code for lane changing detection is here. To know more about it, checkout the [README](../master/Lane_Detection/README.md).
 
 ![LaneDetection](https://github.com/vinayakkgarg/Lane-Detection-App/blob/master/lane_detected.png)
 
 
-## * [challan_project](../master/challan_project)
-This detects the license plate of the car, reads it and stores it in a SQL Database which can be later used for processing. To know more about it, checkout the [README](../master/challan_project/README.md).
+## * [vehicle_detection](../master/vehicle_detection)
+This detects the license plate of the car, reads it and stores it in a SQL Database which can be later used for processing. To know more about it, checkout the [README](../master/vehicle_detection/README.md).
 
-![challanProject](https://github.com/vinayakkgarg/challan_project/blob/master/vehicle_detection/car_detect.png)
+![vehicleDetection](https://github.com/vinayakkgarg/challan_project/blob/master/vehicle_detection/car_detect.png)
 
 
 ## * [CraSOS (Arduino Code)](../master/CraSOS (Arduino Code))
