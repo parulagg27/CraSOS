@@ -1,4 +1,4 @@
-# CrasOS
+# CraSOS
 ### So you do not lie like trash after you crash…..
 
 
